@@ -1,4 +1,5 @@
-cffi==1.14.6
+cffi==1.15.0
+google-cloud-firestore
 pycryptodome
 Pyrebase
 datacleaner
