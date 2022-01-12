@@ -1,4 +1,4 @@
-cffi
+cffi==1.14.6
 pycryptodome
 Pyrebase
 datacleaner
