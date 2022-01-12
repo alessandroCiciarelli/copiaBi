@@ -1,4 +1,5 @@
 cffi==1.14.6
+pyjwt
 google-cloud-firestore
 pycryptodome
 Pyrebase
