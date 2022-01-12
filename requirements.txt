@@ -15,5 +15,5 @@ sweetviz
 streamlit_pandas_profiling
 numpy
 lazypredict
-scikit_learn
+scikit-learn
 tabula
