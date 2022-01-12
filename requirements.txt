@@ -1,6 +1,6 @@
 cffi==1.14.6
 pyjwt
-streamlit-aggrid==0.0.4
+streamlit-aggrid
 google-cloud-firestore
 pycryptodome
 Pyrebase
