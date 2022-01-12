@@ -10,7 +10,7 @@ import numpy as np
 from pandasql import sqldf
 import sweetviz as sv
 import base64 
-import pyrebase
+from pyrebase import pyrebase
 import tpot
 import tabula
 import html5lib
